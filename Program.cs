@@ -41,7 +41,7 @@ are stored. The LFD file will be named after the directory.
 For vieiwng a list of all audio files stored within an LFD file, use the
 following command:
 
-lfdmusic read <tagret>
+lfdmusic read <target>
 
 where <target> is the file path to the LFD file you wish to review.
 

@@ -53,7 +53,7 @@ Any violation of the above may result in errors (caught or incaught), and potent
 ### Read
 For vieiwng a list of all audio files stored within an existing LFD file, use the following command:
 
-lfdmusic read \<tagret\>
+lfdmusic read \<target\>
 
 where \<target\> is the file path to the LFD file you wish to review.
 
